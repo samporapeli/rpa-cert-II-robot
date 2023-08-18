@@ -7,7 +7,7 @@ Documentation	Orders robots from RobotSpareBin Industries Inc.
 ...
 ...				Created for RPA Certification II (https://robocorp.com/docs/courses/build-a-robot/)
 ...
-...				https://github.com/samporapeli/rpa-cert-II
+...				https://github.com/samporapeli/rpa-cert-II-robot
 
 Library				RPA.Archive
 Library				RPA.Browser.Selenium	auto_close=${FALSE}
